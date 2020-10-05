@@ -9,6 +9,7 @@ Everything is based on paramiko libray.
 2. See demo file.
 
 ## How to use
+```
 host="Your HOST IP adress"
 port=22
 username="Your_username"
@@ -21,3 +22,12 @@ ssh.command("Your_command")
 
 #for multiple comands
 ssh.command("Your_command; Your_next_comand; Your_another_command")
+```
+
+## Photos
+<p align="center">
+    <img src="1.png", width="720">
+</p>
+<p align="center">
+    <img src="2.png", width="720">
+</p>
