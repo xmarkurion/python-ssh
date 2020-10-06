@@ -16,12 +16,26 @@ username="Your_username"
 password="Your_password"
 
 ssh = ezssh(host,port,username,password)
+```
 
+```
 #for one command
 ssh.command("Your_command")
+```
 
+```
 #for multiple comands
 ssh.command("Your_command; Your_next_comand; Your_another_command")
+```
+
+```
+#Sending shutdown comand to ssh
+ssh.shutown()
+```
+
+```
+#Sending reboot comand to ssh
+ssh.reboot()
 ```
 
 ## Photos
