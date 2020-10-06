@@ -40,8 +40,8 @@ ssh.reboot()
 
 ## Photos
 <p align="center">
-    <img src="1.png", width="720">
+    <img src="media/1.png", width="720">
 </p>
 <p align="center">
-    <img src="2.png", width="720">
+    <img src="media/2.png", width="720">
 </p>
